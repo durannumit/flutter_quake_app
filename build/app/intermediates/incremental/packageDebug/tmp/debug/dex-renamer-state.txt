@@ -1,0 +1,4 @@
+#Thu Feb 21 11:46:44 EET 2019
+base.0=/Users/umit/Documents/library/flutterprojects/quake_app/quake_app/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
